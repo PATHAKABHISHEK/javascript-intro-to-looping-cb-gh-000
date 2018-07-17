@@ -17,6 +17,6 @@ var whileLoop = (n) => {
 var doWhileLoop = (array) =>{
   do{
     array.pop()
-  }while(array.length >0);
-  return false
+  }while(array.length > 0);
+  
 }
