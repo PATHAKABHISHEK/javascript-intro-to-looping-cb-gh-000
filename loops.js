@@ -16,10 +16,10 @@ var whileLoop = (n) => {
 function maybeTrue() {
   return Math.random() >= 0.5 // Returns a random number between 0 (inclusive) and 1 (exclusive)
 }
- 
+
 var doWhileLoop = (array) =>{
   do{
     array.pop()
-  }while(array.length > 0 && maybeTrye())
+  }while(array.length > 0 && maybeTrue())
 return array
 }
