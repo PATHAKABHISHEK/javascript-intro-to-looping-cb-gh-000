@@ -12,5 +12,3 @@ var whileLoop = (n) => {
   }
   return "done"
 }
-
-
