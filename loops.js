@@ -12,3 +12,10 @@ var whileLoop = (n) => {
   }
   return "done"
 }
+
+
+var doWhileLoop = (array) =>{
+  do{
+    array.pop()
+  }while(array.length >0);
+}
