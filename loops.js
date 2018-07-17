@@ -5,4 +5,3 @@ var forLoop = (array) =>{
   }
   return array
 }
-
